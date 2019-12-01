@@ -6,6 +6,6 @@ const server= http.createServer((req,res)=>{
     console.log("utsav gohel");
 })
 
-server.listen(3200);
+server.listen(3000);
 
 
