@@ -11,13 +11,5 @@
     "express": "^4.17.1",
     "mongodb": "^3.2.7"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hemangi5/node_practice.git"
-  },
-  "bugs": {
-    "url": "https://github.com/hemangi5/node_practice/issues"
-  },
-  "homepage": "https://github.com/hemangi5/node_practice#readme",
   "description": ""
 }
