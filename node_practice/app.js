@@ -3,8 +3,8 @@ var express = require("express");
 
 const app = express();
 
-const adminRoutes = require("../routes/admin");
-const shopRoutes = require("../routes/shop");
+const adminRoutes = require("./routes/admin");
+const shopRoutes = require("./routes/shop");
 
 app.use(adminRoutes);
 app.use(shopRoutes);
